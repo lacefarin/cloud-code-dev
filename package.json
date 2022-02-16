@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "fluent-ffmpeg": "2.1.2",
+        "ffmpeg-static": "4.4.1"
+    }
+}
